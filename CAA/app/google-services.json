@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132432819419",
+    "project_id": "clg-database",
+    "storage_bucket": "clg-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132432819419:android:59a7a5d542f0a59f9288fe",
+        "android_client_info": {
+          "package_name": "edu.put.clg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq_GMrY9HICzvga0oFwAuvv_zaBfg54QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
